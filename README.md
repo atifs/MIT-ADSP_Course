@@ -40,7 +40,7 @@ Online Classes by <b>MIT Professors</b> (Mentored Classes over the weekends by d
 <b> Module 4: Practical Data Science (1 hands-on Project)</b>
 - Decision Trees
 - Random Forest
-- Time Series (Introduction)
+- Time Series
 
 <b> Module 5: Deep Learning (1 hands-on Project)</b>
 - Intro to Neural Networks
